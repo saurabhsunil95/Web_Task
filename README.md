@@ -1,10 +1,11 @@
 # Web_Task
 Front_end for the website under task
 
+### 
 
 The Front end of the website have been developed using Bootstrap 3 Framework.
-Following Bootstrap 3 classses were used : 
-
+### Following Bootstrap 3 classses were used : 
+```
 -->>container
 -->>container-fluid
 -->>Modal
@@ -15,7 +16,7 @@ Following Bootstrap 3 classses were used :
     -->Nav-link
     -->Nav-Header
 -->Glyphicon
-
+```
 
 
 The website is Styled using CSS 3 styling combinations.
